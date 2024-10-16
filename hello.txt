@@ -1,0 +1,3 @@
+hello my name is asim and now i am going to perform  file reader operation.
+*imp) which method end with stream its use for in byte read or write
+and which is end with reader its use for character read or write
